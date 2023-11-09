@@ -1,1 +1,1 @@
-# apple_website_using_html, css and a little javascript
+# apple_website using html, css and javascript
